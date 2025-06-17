@@ -4,7 +4,8 @@ A fun and interactive web application that generates random RGB colors on button
 
 ## 🚀 Live Demo
 
-[Click here to try the live version](https://adityaa2227.github.io/Random-Color-Generator/) <!-- Replace with your actual hosted link -->
+<a href="https://adityaa2227.github.io/random-color-generator/" target="_blank" rel="noopener noreferrer">Click here to try the live version</a>
+ <!-- Replace with your actual hosted link -->
 
 ## 📸 Preview
 
